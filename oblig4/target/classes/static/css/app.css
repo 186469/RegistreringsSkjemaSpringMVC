@@ -1,0 +1,11 @@
+/* Overstyr Simple.css for kompakt tabell */
+table.compact {
+  display: table;  
+  width: auto;     
+  margin: 1.5rem auto; 
+}
+
+table.compact th, 
+table.compact td {
+  white-space: nowrap; 
+}
